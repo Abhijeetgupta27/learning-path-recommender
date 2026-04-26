@@ -1,0 +1,6 @@
+data:
+  raw: data/raw/coursera_course_dataset.csv
+  processed: data/processed/cleaned.csv
+
+model:
+  embeddings: models/embeddings.npy

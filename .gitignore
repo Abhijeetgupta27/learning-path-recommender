@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+.env
+venv/
+
+# ML artifacts
+mlruns/
+data/
+models/
+*.npy
+*.bin
+
+# logs
+*.log
+
+# Mac
+.DS_Store
